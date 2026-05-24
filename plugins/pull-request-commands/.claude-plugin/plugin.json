@@ -1,0 +1,5 @@
+{
+  "name": "pull-request-commands",
+  "description": "A plugin that provides commands for managing pull requests in a repository.",
+  "version": "1.0.0"
+}

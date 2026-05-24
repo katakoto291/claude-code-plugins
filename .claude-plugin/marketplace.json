@@ -3,5 +3,11 @@
   "owner": {
     "name": "katakoto291"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "pull-request-commands",
+      "description": "A plugin to manage pull requests with commands.",
+      "source": "./plugins/pull-request-commands"
+    }
+  ]
 }
